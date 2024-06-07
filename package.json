@@ -106,7 +106,7 @@
     "jsdom": "=11.11.0",
     "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.20",
-    "lvconnect": "^0.1.23",
+    "lvconnect": "^0.1.24",
     "memory-cache": "^0.2.0",
     "mime": "^2.4.6",
     "minimed-connect-to-nightscout": "^1.5.5",
